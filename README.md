@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Kevin Kim</h1>
-<h3 align="center">A passionate student studying Software Engineering at McMaster</h3>
+<h1 align="left">Hi, I'm Kevin Kim</h1>
+<h3 align="left">A passionate student studying Software Engineering at McMaster</h3>
 
 - 🔭 I’m currently working on **my own portfolio website**
 

@@ -14,7 +14,7 @@ check out some of my code here!
 
 contact me at [kevinkim0529@gmail.com](mailto:kevinkim0529@gmail.com) 
 
-<img width="609" alt="image" src="https://github.com/kevinnkimm/kevinnkimm/assets/43616290/95cdddd7-54d5-474c-9329-990b17160940">      
+<img width="400" alt="image" src="https://github.com/kevinnkimm/kevinnkimm/assets/43616290/95cdddd7-54d5-474c-9329-990b17160940">      
         
 im open to new opportunities and collaborations <nobr>ʕ ꈍᴥꈍʔ</nobr>
 

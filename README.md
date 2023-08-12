@@ -14,7 +14,7 @@ check out some of my code here!
 
 contact me at [kevinkim0529@gmail.com](mailto:kevinkim0529@gmail.com) 
 
-<small>
+<sub>
               ████                                                                
             ██  ██                                              ████              
             ██  ██                                              ██░░██            
@@ -64,7 +64,7 @@ contact me at [kevinkim0529@gmail.com](mailto:kevinkim0529@gmail.com)
                   ████████████▓▓██                                                
                           ██████                                                  
                                                                                   
-</small>
+</sub>
 
 im open to new opportunities and collaborations <nobr>(๑˃̵　ᴗ　˂̵)و</nobr>
 

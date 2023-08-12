@@ -13,7 +13,7 @@ in my free time some of my hobbies are:
 check out some of my code here! 
 
 contact me at [kevinkim0529@gmail.com](mailto:kevinkim0529@gmail.com) 
-<nobr>
+'''
               ████                                                                
             ██  ██                                              ████              
             ██  ██                                              ██░░██            
@@ -62,7 +62,7 @@ contact me at [kevinkim0529@gmail.com](mailto:kevinkim0529@gmail.com)
                 ██░░░░░░░░░░░░████████                                            
                   ████████████▓▓██                                                
                           ██████                                                  
-</nobr>
+'''
 im open to new opportunities and collaborations <nobr>(๑˃̵　ᴗ　˂̵)و</nobr>
 
 [linkedin](https://www.linkedin.com/in/kevin--kim/)
